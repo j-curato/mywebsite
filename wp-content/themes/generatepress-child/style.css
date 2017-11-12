@@ -15,3 +15,7 @@
 .site-header, .site-info{
 	display: none;
 }
+
+.old-price{
+	text-decoration: line-through;
+}
